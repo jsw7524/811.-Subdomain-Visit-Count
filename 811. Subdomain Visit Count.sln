@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "811. Subdomain Visit Count", "811. Subdomain Visit Count\811. Subdomain Visit Count.csproj", "{AE17517F-2A1A-49E4-826F-3572247E7343}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{2D112604-AF70-41F6-B1F8-55293D5D471B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AE17517F-2A1A-49E4-826F-3572247E7343}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE17517F-2A1A-49E4-826F-3572247E7343}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE17517F-2A1A-49E4-826F-3572247E7343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D112604-AF70-41F6-B1F8-55293D5D471B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D112604-AF70-41F6-B1F8-55293D5D471B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D112604-AF70-41F6-B1F8-55293D5D471B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D112604-AF70-41F6-B1F8-55293D5D471B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
